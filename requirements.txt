@@ -1,0 +1,13 @@
+streamlit==1.25.0
+PyPDF2==3.0.0
+pandas==2.0.3
+numpy==1.24.2
+scikit-learn==1.2.2
+matplotlib==3.7.2
+yfinance==0.2.26
+requests==2.31.0
+textblob==0.17.1
+python-dotenv==1.0.0
+crewai==0.4.26
+crewai_tools==0.1.6
+openai==0.28.0
